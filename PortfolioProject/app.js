@@ -4,9 +4,6 @@
 Font Awesome for Icons:
 https://fontawesome.com/icons
 
-Tutorial:
-https://www.youtube.com/watch?v=xV7S8BhIeBo&t=339s
-@1:27:00
  */
 
 const sections = document.querySelectorAll('.section');

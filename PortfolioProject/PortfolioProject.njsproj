@@ -28,6 +28,8 @@
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="images\delivery system.png" />
+    <Content Include="images\delroy%27sDungeon.png" />
     <Content Include="images\employee duration.png" />
     <Content Include="images\inventory-image.png" />
     <Content Include="images\PortfolioImageSmallEdited.jpg" />
