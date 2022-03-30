@@ -28,12 +28,44 @@
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="images\Baby-Paiz.jpg" />
+    <Content Include="images\BB-Hiking-1.jpg" />
+    <Content Include="images\BB-Pups-Hiking-1.jpg" />
+    <Content Include="images\BB-Pups-Hiking-2.jpg" />
+    <Content Include="images\bubs-sleeping.jpg" />
+    <Content Include="images\Cancun-1.jpg" />
+    <Content Include="images\Cancun-2.jpg" />
+    <Content Include="images\Cute-Paiz.jpg" />
     <Content Include="images\delivery system.png" />
     <Content Include="images\delroy%27sDungeon.png" />
     <Content Include="images\employee duration.png" />
+    <Content Include="images\grass-paiz-2.jpg" />
+    <Content Include="images\grass-paiz.jpg" />
+    <Content Include="images\handsome boy.jpg" />
+    <Content Include="images\Hiking.jpg" />
     <Content Include="images\inventory-image.png" />
+    <Content Include="images\jail-puppy.jpg" />
+    <Content Include="images\Jett-1 %282%29.jpg" />
+    <Content Include="images\Jett-1.jpg" />
+    <Content Include="images\Jett-2.jpg" />
+    <Content Include="images\jett-smiling.jpg" />
+    <Content Include="images\lap-puppy.jpg" />
+    <Content Include="images\Me-Hiking-1.jpg" />
+    <Content Include="images\Me-Hiking-2-1.jpg" />
+    <Content Include="images\Me-Hiking-2-2-1.jpg" />
+    <Content Include="images\Me-Hiking-2-2.jpg" />
+    <Content Include="images\Paiz-alli.jpg" />
+    <Content Include="images\Paiz-baby.jpg" />
+    <Content Include="images\Paiz-Banana.jpg" />
+    <Content Include="images\paiz-car.jpg" />
+    <Content Include="images\Paiz-Country.jpg" />
+    <Content Include="images\portfolio.png" />
     <Content Include="images\PortfolioImageSmallEdited.jpg" />
+    <Content Include="images\pretty boy.jpg" />
     <Content Include="images\scheduling application.png" />
+    <Content Include="images\sleeping-jett.jpg" />
+    <Content Include="images\sleeping-paiz.jpg" />
+    <Content Include="images\snowy paiz.jpg" />
     <Content Include="index.html">
       <SubType>Code</SubType>
     </Content>
