@@ -59,10 +59,12 @@
     <Content Include="images\Paiz-Banana.jpg" />
     <Content Include="images\paiz-car.jpg" />
     <Content Include="images\Paiz-Country.jpg" />
+    <Content Include="images\portcolorchange.png" />
     <Content Include="images\portfolio.png" />
     <Content Include="images\PortfolioImageSmallEdited.jpg" />
     <Content Include="images\pretty boy.jpg" />
     <Content Include="images\scheduling application.png" />
+    <Content Include="images\Screenshot 2022-04-01 090306.png" />
     <Content Include="images\sleeping-jett.jpg" />
     <Content Include="images\sleeping-paiz.jpg" />
     <Content Include="images\snowy paiz.jpg" />
