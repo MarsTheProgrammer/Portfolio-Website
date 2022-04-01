@@ -75,6 +75,9 @@
     <Content Include="styles\styles.css">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="thankYouPage.html">
+      <SubType>Code</SubType>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="images\" />
